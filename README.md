@@ -19,7 +19,7 @@ I'm a dedicated developer with a strong focus on building impactful and scalable
 - **DevOps & Tools:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 - **Focus Areas:** Full-Stack Development, Open Source, System Design
 
-### 👨‍💻 Current Work
+### 👨‍💻 Work :-
 
 - **ZenStreet.ai:** Developing the backend for a SaaS platform using TypeScript and Nest.js, with a focus on creating reliable and efficient systems.
 - **Open Source:** Contributing to projects like WebPack and Neutralinojs.
