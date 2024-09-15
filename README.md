@@ -9,7 +9,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!+I'm+Abhijeet)
 
-I'm a dedicated developer with a strong focus on building impactful and scalable software solutions. Currently, I’m working as a Full-Stack Developer Intern at [ZenStreet.ai](https://www.zenstreet.ai), where we're leveraging cutting-edge technology to create innovative products.
+I'm a dedicated developer who strongly focuses on building impactful and scalable software solutions. Currently, I’m working as a Full-Stack Developer Intern at [ZenStreet.ai](https://www.zenstreet.ai), where we're leveraging cutting-edge technology to create innovative products.
 
 ### 💻 Tech Stack & Expertise
 
@@ -21,7 +21,7 @@ I'm a dedicated developer with a strong focus on building impactful and scalable
 
 ### 👨‍💻 Work :-
 
-- **ZenStreet.ai:** Developing the backend for a SaaS platform using TypeScript and Nest.js, with a focus on creating reliable and efficient systems.
+- **ZenStreet.ai:** Developing the backend for a SaaS platform using TypeScript and Nest.js, focusing on creating reliable and efficient systems.
 - **Open Source:** Contributing to projects like WebPack and Neutralinojs.
 - **Hackathons:** Continuously refining my skills by generating and executing innovative ideas in competitive environments.
 
@@ -33,6 +33,6 @@ When I'm not coding, I’m likely engaged in MMA 🥋 or playing football ⚽. M
 
 - **Email:** [abhijeet6419@gmail.com](mailto:abhijeet6419@gmail.com)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-kumar-singh-softwaredeveloper/)
-- **Twitter (X):** [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Abhijeet_641)
+
 
 I'm always open to connecting with professionals and like-minded individuals. Let's collaborate and create something extraordinary together!
