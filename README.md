@@ -9,7 +9,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!+I'm+Abhijeet)
 
-I'm a dedicated developer who strongly focuses on building impactful and scalable software solutions. Currently, I’m working as a Full-Stack Developer Intern at [ZenStreet.ai](https://www.zenstreet.ai), where we're leveraging cutting-edge technology to create innovative products.
+I'm a dedicated developer who strongly focuses on building impactful and scalable software solutions.
 
 ### 💻 Tech Stack & Expertise
 
