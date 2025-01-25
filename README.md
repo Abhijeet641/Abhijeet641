@@ -1,15 +1,10 @@
-
-
-
-
-
 # 👋 Hi, I'm Abhijeet Kumar Singh
 
 ### 🌐 Full-Stack Developer | Open Source Contributor
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!+I'm+Abhijeet)
 
-I'm a dedicated developer who strongly focuses on building impactful and scalable software solutions.
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=abhijeet_641.abhijeet_641)
 
 ### 💻 Tech Stack & Expertise
 
@@ -29,11 +24,36 @@ I'm a dedicated developer who strongly focuses on building impactful and scalabl
 
 When I'm not coding, I’m likely engaged in MMA 🥋 or playing football ⚽. My interest in complex systems extends from software engineering to understanding intricate natural systems.
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijeet_641&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet_641&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijeet_641&theme=radical)
+
+### 🚀 Recent Projects
+
+Here are some of the projects I’ve been working on recently:
+
+- **Project 1:** [Project Name](https://github.com/abhijeet_641/SlotMachine)
+### 📈 Skills Progress
+
+Here’s a quick overview of my current skill levels:
+
+- **TypeScript:** ![Progress](https://img.shields.io/badge/TypeScript-90%25-007ACC?logo=typescript&logoColor=white)
+- **JavaScript:** ![Progress](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?logo=javascript&logoColor=black)
+- **React:** ![Progress](https://img.shields.io/badge/React-85%25-61DAFB?logo=react&logoColor=white)
+- **NestJS:** ![Progress](https://img.shields.io/badge/NestJS-80%25-E0234E?logo=nestjs&logoColor=white)
+- **Docker:** ![Progress](https://img.shields.io/badge/Docker-75%25-2496ED?logo=docker&logoColor=white)
+
+### ☕ Support Me
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhijeet_641)
+
 ### 📫 Let's Connect
 
 - **Email:** [abhijeet6419@gmail.com](mailto:abhijeet6419@gmail.com)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-kumar-singh-softwaredeveloper/)
 
-
 I'm always open to connecting with professionals and like-minded individuals. Let's collaborate and create something extraordinary together!
-
