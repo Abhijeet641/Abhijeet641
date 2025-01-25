@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!+I'm+Abhijeet)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=abhijeet_641.abhijeet_641)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=abhijeet_641.abhijeet_641&label=Visitors&color=blue&style=flat-square)
 
 ### 💻 Tech Stack & Expertise
 
@@ -24,14 +24,12 @@
 
 When I'm not coding, I’m likely engaged in MMA 🥋 or playing football ⚽. My interest in complex systems extends from software engineering to understanding intricate natural systems.
 
-
-
-
 ### 🚀 Recent Projects
 
 Here are some of the projects I’ve been working on recently:
 
 - **Project 1:** [SlotMachineGame](https://github.com/Abhijeet641/SlotMachineGame)
+
 ### 📈 Skills Progress
 
 Here’s a quick overview of my current skill levels:
@@ -41,8 +39,6 @@ Here’s a quick overview of my current skill levels:
 - **React:** ![Progress](https://img.shields.io/badge/React-85%25-61DAFB?logo=react&logoColor=white)
 - **NestJS:** ![Progress](https://img.shields.io/badge/NestJS-80%25-E0234E?logo=nestjs&logoColor=white)
 - **Docker:** ![Progress](https://img.shields.io/badge/Docker-75%25-2496ED?logo=docker&logoColor=white)
-
-
 
 ### 📫 Let's Connect
 
