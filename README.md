@@ -24,19 +24,16 @@
 
 When I'm not coding, I’m likely engaged in MMA 🥋 or playing football ⚽. My interest in complex systems extends from software engineering to understanding intricate natural systems.
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijeet_641&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet_641&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijeet_641&theme=radical)
+
 
 ### 🚀 Recent Projects
 
 Here are some of the projects I’ve been working on recently:
 
-- **Project 1:** [Project Name](https://github.com/abhijeet_641/SlotMachine)
+- **Project 1:** [Project Name](https://github.com/Abhijeet641/SlotMachineGame)
 ### 📈 Skills Progress
 
 Here’s a quick overview of my current skill levels:
