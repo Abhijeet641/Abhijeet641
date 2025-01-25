@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!+I'm+Abhijeet)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=abhijeet_641.abhijeet_641&label=Visitors&color=blue&style=flat-square)
+![Visitor Count](https://hits.sh/github.com/abhijeet_641/abhijeet_641.svg?label=Visitors&color=blue&style=flat-square)
 
 ### 💻 Tech Stack & Expertise
 
