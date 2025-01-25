@@ -36,3 +36,86 @@ When I'm not coding, I’m likely engaged in MMA 🥋 or playing football ⚽. M
 
 
 I'm always open to connecting with professionals and like-minded individuals. Let's collaborate and create something extraordinary together!
+
+import React, { useState, useEffect } from 'react';
+import { 
+  GitHubLogoIcon, 
+  CodeIcon, 
+  RocketIcon, 
+  EyeOpenIcon, 
+  CommitIcon 
+} from '@radix-ui/react-icons';
+
+const GitHubProfileStats = () => {
+  const [profileStats, setProfileStats] = useState({
+    totalVisitors: 0,
+    privateRepoPushes: 0,
+    openSourceContributions: 0,
+    dailyCommits: 0
+  });
+
+  // Simulated data fetch (in a real implementation, you'd use GitHub API)
+  useEffect(() => {
+    // Mock data generation
+    const generateMockStats = () => {
+      return {
+        totalVisitors: Math.floor(Math.random() * 10000),
+        privateRepoPushes: Math.floor(Math.random() * 500),
+        openSourceContributions: Math.floor(Math.random() * 200),
+        dailyCommits: Math.floor(Math.random() * 50)
+      };
+    };
+
+    setProfileStats(generateMockStats());
+  }, []);
+
+  return (
+    <div className="grid grid-cols-2 gap-4 p-4 bg-gray-50 rounded-lg shadow-md">
+      <div className="flex items-center bg-white p-3 rounded-lg shadow">
+        <EyeOpenIcon className="w-8 h-8 text-blue-500 mr-3" />
+        <div>
+          <p className="text-gray-600">Profile Visitors</p>
+          <h3 className="text-2xl font-bold text-blue-600">
+            {profileStats.totalVisitors.toLocaleString()}
+          </h3>
+        </div>
+      </div>
+
+      <div className="flex items-center bg-white p-3 rounded-lg shadow">
+        <CodeIcon className="w-8 h-8 text-green-500 mr-3" />
+        <div>
+          <p className="text-gray-600">Private Repo Pushes</p>
+          <h3 className="text-2xl font-bold text-green-600">
+            {profileStats.privateRepoPushes.toLocaleString()}
+          </h3>
+        </div>
+      </div>
+
+      <div className="flex items-center bg-white p-3 rounded-lg shadow">
+        <RocketIcon className="w-8 h-8 text-purple-500 mr-3" />
+        <div>
+          <p className="text-gray-600">Open Source Contributions</p>
+          <h3 className="text-2xl font-bold text-purple-600">
+            {profileStats.openSourceContributions.toLocaleString()}
+          </h3>
+        </div>
+      </div>
+
+      <div className="flex items-center bg-white p-3 rounded-lg shadow">
+        <CommitIcon className="w-8 h-8 text-red-500 mr-3" />
+        <div>
+          <p className="text-gray-600">Daily Commits</p>
+          <h3 className="text-2xl font-bold text-red-600">
+            {profileStats.dailyCommits.toLocaleString()}
+          </h3>
+        </div>
+      </div>
+
+      <div className="col-span-2 mt-4 text-center text-xs text-gray-500">
+        * Statistics are randomly generated for demonstration
+      </div>
+    </div>
+  );
+};
+
+export default GitHubProfileStats;
