@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Abhijeet Kumar Singh
 
-## 🚀 Full-Stack Developer | Open Source Contributor | Hackathon Enthusiast
+## 🚀 Full-Stack Developer | Open Source Contributor
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;Full-Stack+Developer+%7C+Open+Source+Enthusiast;Building+Scalable+and+Efficient+Software+%F0%9F%9A%80;MMA+Fan+%7C+Football+Lover+%E2%9A%BD;Always+Learning+%7C+Always+Growing)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;Full-Stack+Developer+%7C+Open+Source+Enthusiast;Building+Scalable+and+Efficient+Software+%F0%9F%9A%80;Always+Learning+%7C+Always+Improving)
 
 ---
 
@@ -20,7 +20,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ### **Frameworks & Libraries:**
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
@@ -35,34 +34,30 @@
 
 ---
 
-## 🔥 Work & Open Source Contributions
+## 🔥 Professional Experience & Open Source Contributions
 
 ### 🏢 **ZenStreet.ai**
-- Architecting scalable backend using **TypeScript** and **Nest.js**.
-- Building efficient APIs for high-traffic SaaS applications.
+- Architecting scalable backend systems using **TypeScript** and **Nest.js**.
+- Developing optimized APIs for high-traffic SaaS applications.
 
 ### 🌍 **Open Source Contributions**
-- **WebPack**: Performance improvements and plugin development.
-- **Neutralinojs**: Contributed to cross-platform desktop application support.
-
-### 🏆 **Hackathons & Competitions**
-- **Pixel Wizard Hackathon** finalist!
-- Built innovative projects in multiple hackathons.
+- **WebPack**: Contributed to performance optimizations and plugin enhancements.
+- **Neutralinojs**: Worked on cross-platform desktop application improvements.
 
 ---
 
-## 🎮 Fun & Side Projects
+## 🚀 Featured Projects
 
 ### 🎰 **Slot Machine Game**
 [![SlotMachineGame](https://github-readme-stats.vercel.app/api/pin/?username=Abhijeet641&repo=SlotMachineGame&theme=radical)](https://github.com/Abhijeet641/SlotMachineGame)
 
 ### 💡 **AI-Powered Code Review Dashboard**
 - AI-assisted code analysis with team insights.
-- Gamified code reviews for better engagement.
+- Gamified code reviews for improved collaboration.
 
 ---
 
-## 📈 Skills Progress 📊
+## 📈 Technical Proficiency 📊
 
 | Technology | Proficiency |
 |------------|------------|
@@ -74,12 +69,12 @@
 
 ---
 
-## 📫 Let's Connect 🌍
+## 📫 Connect with Me
 
 - **Email:** [abhijeet6419@gmail.com](mailto:abhijeet6419@gmail.com)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-kumar-singh-softwaredeveloper/)
-- **Twitter:** [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)
-- **Portfolio:** [🚀 Click Here](https://your-portfolio.com)
+- **Portfolio:** [🚀 Visit Portfolio](https://abhijeet641.github.io/Portfolio/)
 
-📢 _Let's collaborate and build something amazing!_ 🚀
+📢 _Let's collaborate and build impactful software!_ 🚀
+
 
