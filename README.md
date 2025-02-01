@@ -3,9 +3,10 @@
 ## 🚀 Full-Stack Developer | Open Source Contributor
 
 
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijeet641&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijeet641&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijeet641&show_icons=true&theme=radical&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet641&theme=radical" />
 </div>
 
@@ -45,8 +46,8 @@
 
 ## 🚀 Featured Projects
 
-### 🎰 **Slot Machine Game**
-[![SlotMachineGame](https://github-readme-stats.vercel.app/api/pin/?username=Abhijeet641&repo=SlotMachineGame&theme=radical)](https://github.com/Abhijeet641/SlotMachineGame)
+### **Latest Repositories**
+[![Latest Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet641&layout=compact&theme=radical&count_private=true)](https://github.com/Abhijeet641?tab=repositories)
 
 ### 💡 **AI-Powered Code Review Dashboard**
 - AI-assisted code analysis with team insights.
@@ -70,8 +71,7 @@
 
 - **Email:** [abhijeet6419@gmail.com](mailto:abhijeet6419@gmail.com)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-kumar-singh-softwaredeveloper/)
-- **Portfolio:** [🚀 Visit Portfolio](https://abhijeet641.github.io/Portfolio/)
+- **Portfolio:** [🚀 Visit Portfolio](https://your-portfolio.com)
 
 📢 _Let's collaborate and build impactful software!_ 🚀
-
 
