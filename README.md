@@ -2,7 +2,7 @@
 
 ## 🚀 Full-Stack Developer | Open Source Contributor
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;Full-Stack+Developer+%7C+Open+Source+Enthusiast;Building+Scalable+and+Efficient+Software+%F0%9F%9A%80;Always+Learning+%7C+Always+Improving)
+
 
 ---
 
@@ -54,8 +54,7 @@
 - **Features:** Classic slot machine logic, interactive UI, engaging animations
 - **Live Demo:** [🎮 Play Here](https://your-live-demo-url.com)
 
-### **Latest Repositories**
-[![Latest Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet641&layout=compact&theme=radical&count_private=true)](https://github.com/Abhijeet641?tab=repositories)
+
 
 ### 💡 **AI-Powered Code Review Dashboard**
 - AI-assisted code analysis with team insights.
