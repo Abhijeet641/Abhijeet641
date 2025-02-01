@@ -2,9 +2,6 @@
 
 ## 🚀 Full-Stack Developer | Open Source Contributor
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;Full-Stack+Developer+%7C+Open+Source+Enthusiast;Building+Scalable+and+Efficient+Software+%F0%9F%9A%80;Always+Learning+%7C+Always+Improving)
-
----
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijeet641&theme=github_dark" />
