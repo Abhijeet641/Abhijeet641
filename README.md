@@ -38,10 +38,10 @@
 
 ### 🏢 **ZenStreet.ai**
 - Architecting scalable backend systems using **TypeScript** and **Nest.js**.
-- Developing optimized APIs for high-traffic SaaS applications.
+- Developing optimised APIS for high-traffic SaaS applications.
 
 ### 🌍 **Open Source Contributions**
-- **WebPack**: Contributed to performance optimizations and plugin enhancements.
+- **WebPack**: Contributed to performance optimisations and plugin enhancements.
 - **Neutralinojs**: Worked on cross-platform desktop application improvements.
 
 ---
@@ -52,15 +52,8 @@
 [![SlotMachineGame](https://github-readme-stats.vercel.app/api/pin/?username=Abhijeet641&repo=SlotMachineGame&theme=radical)](https://github.com/Abhijeet641/SlotMachineGame)
 - **Technologies Used:** JavaScript, HTML, CSS
 - **Features:** Classic slot machine logic, interactive UI, engaging animations
-- **Live Demo:** [🎮 Play Here](https://your-live-demo-url.com)
 
 
-
-### 💡 **AI-Powered Code Review Dashboard**
-- AI-assisted code analysis with team insights.
-- Gamified code reviews for improved collaboration.
-
----
 
 ## 📈 Technical Proficiency 📊
 
