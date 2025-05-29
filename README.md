@@ -1,5 +1,3 @@
-
-
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abhijeet%20Kumar%20Singh&fontSize=40&fontAlign=center&fontColor=ffffff" /> <br/> <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,docker,java,aws,linux&theme=dark" /> <br/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=TypeScript+%7C+React+%7C+NestJS+%7C+Next.js;Open+Source+Contributor+%E2%9C%A8;AI+Integration+in+Web+Apps+%F0%9F%94%8E" /> </div>
 🚀 Full-Stack Developer |  Contributor | AI-Powered Web Engineering Enthusiast
 Building performant web systems & integrating intelligence into everyday software.
