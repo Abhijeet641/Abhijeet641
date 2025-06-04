@@ -97,7 +97,7 @@ Building performant web systems & integrating intelligence into everyday softwar
 <p align="left">
   📫 <strong>Email</strong>: <a href="mailto:abhijeet6419@gmail.com">abhijeet6419@gmail.com</a><br>
   💼 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/abhijeet-kumar-singh-softwaredeveloper/">Abhijeet Kumar Singh</a><br>
-  🌐 <strong>Portfolio</strong>: <a href="https://abhijeet641.github.io/Portfolio/">Visit My Portfolio</a>
+  
 </p>
 
 ---
