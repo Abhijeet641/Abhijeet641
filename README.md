@@ -38,25 +38,6 @@ Building performant web systems & integrating intelligence into everyday softwar
 
 ---
 
-## 👨‍💻 Experience & Open Source Work
-
-### 🏢 ZenStreet.ai — *Backend Developer Intern*  
-📅 *Nov 2024 – Present* | 🌐 *Remote*
-
-- 🧱 Built scalable backend systems using **NestJS**, **TypeScript**, and **PostgreSQL**.
-- 🔐 Implemented **role-based auth**, **input validation**, and **rate limiting**.
-- 📊 Created & documented **RESTful APIs** with Swagger.
-- 🐳 Dockerized services and contributed to **CI/CD automation** pipelines.
-- 🧰 Built internal microservices to boost team productivity.
-
-### 🌍 Notable Open Source Contributions  
-
-- **🛠 Webpack** – Performance tuning via plugin optimization.
-- **🧩 NeutralinoJS** – Enhanced cross-platform behavior and architecture.
-- **💬 Rocket.Chat** – Fixed bugs and contributed backend enhancements.
-
----
-
 ## 🚀 Highlight Projects
 
 ### 🧠 NeuroBase — *AI-Powered Knowledge Hub*  
@@ -65,30 +46,6 @@ Building performant web systems & integrating intelligence into everyday softwar
 - 🧠 Semantic search & chat-style **document retrieval** using RAG.
 - 📝 Clean markdown rendering and blazing-fast UI.
 - ⚙️ Background document sync + embeddings.
-
----
-
-### 🎰 Slot Machine Game  
-**Tech**: Vanilla JS, HTML, CSS
-
-- 🎲 Classic slot machine with animated reels and audio effects.
-- 🎉 Winning logic + score tracker.
-- 💡 Modular & reusable codebase.
-
-
----
-
-## 📊 Technical Proficiency Snapshot
-
-| 🔧 Technology        | 🚀 Expertise |
-|----------------------|-------------|
-| TypeScript           | ![90%](https://img.shields.io/badge/-90%25-007ACC?logo=typescript&logoColor=white) |
-| JavaScript           | ![95%](https://img.shields.io/badge/-95%25-F7DF1E?logo=javascript&logoColor=black) |
-| React                | ![85%](https://img.shields.io/badge/-85%25-61DAFB?logo=react&logoColor=white) |
-| NestJS               | ![80%](https://img.shields.io/badge/-80%25-E0234E?logo=nestjs&logoColor=white) |
-| Node.js              | ![85%](https://img.shields.io/badge/-85%25-339933?logo=node.js&logoColor=white) |
-| Docker               | ![75%](https://img.shields.io/badge/-75%25-2496ED?logo=docker&logoColor=white) |
-| LangChain & RAG      | ![70%](https://img.shields.io/badge/-70%25-2E3440?logo=openai&logoColor=white) |
 
 ---
 
