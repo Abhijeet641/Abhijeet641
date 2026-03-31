@@ -38,16 +38,6 @@ Building performant web systems & integrating intelligence into everyday softwar
 
 ---
 
-## 🚀 Highlight Projects
-
-### 🧠 NeuroBase — *AI-Powered Knowledge Hub*  
-**Tech Stack**: React, Next.js, Node.js, Express, OpenAI, Pinecone
-
-- 🧠 Semantic search & chat-style **document retrieval** using RAG.
-- 📝 Clean markdown rendering and blazing-fast UI.
-- ⚙️ Background document sync + embeddings.
-
----
 
 ## 🌐 Connect & Collaborate
 
