@@ -1,55 +1,63 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abhijeet%20Kumar%20Singh&fontSize=40&fontAlign=center&fontColor=ffffff" /> <br/> <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,docker,java,aws,linux&theme=dark" /> <br/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=TypeScript+%7C+React+%7C+NestJS+%7C+Next.js;Open+Source+Contributor+%E2%9C%A8;AI+Integration+in+Web+Apps+%F0%9F%94%8E" /> </div>
-🚀 Full-Stack Developer |  Contributor | AI-Powered Web Engineering Enthusiast
-Building performant web systems & integrating intelligence into everyday software.
+# Abhijeet Kumar Singh
+
+**Full-stack engineer with 1.5+ years of production experience shipping TypeScript systems on Next.js, NestJS, and Node.js.** My work has served 1,000 daily active users, cut dashboard load time from 3.1s to 1.8s, and I built Bamblu, a live developer platform with 100+ active users.
+
+Open to full-stack engineering roles.
+
+[Portfolio](https://career-portfolio-bice.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abhijeet-kumar-singh-softwaredeveloper/) · [Resume](Abhijeet_Resume.pdf) · [Email](mailto:abhijeet6419@gmail.com)
 
 ---
 
-## 🛠 Tech Stack & Specialties
+## Featured Projects
 
-### 💻 Programming Languages  
-<p align="left">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />
-</p>
-
-### ⚙️ Frameworks & Libraries  
-<p align="left">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps  
-<p align="left">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=githubactions&logoColor=white" />
-</p>
-
-### 🧠 AI / RAG / NLP  
-<p align="left">
-  <img src="https://img.shields.io/badge/-LangChain-2E3440?logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RAG-%2300CED1" />
-  <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white" />
-</p>
+| Project | Problem and architecture | Outcome |
+|---|---|---|
+| **Bamblu** ([Live](https://bamblu.vercel.app) · [Code](https://github.com/Bamblu/monoserver))<br>Next.js 15, NestJS, Prisma, PostgreSQL | Developer growth platform with personalized onboarding, GitHub integration, and developer analytics. Next.js frontend over a NestJS API (15+ REST endpoints); Google and GitHub OAuth with JWT via Passport.js; schema managed with Prisma. | In production with 100+ active users. Dockerized, with GitHub Actions CI/CD deploying to Vercel and Render. |
+| **Neurobase**<br>Next.js 14, LangGraph, ChromaDB, Gemini, PostgreSQL | Document-aware AI knowledge base. RAG pipeline orchestrated with LangGraph answers questions over PDF, DOCX, and TXT files, with source references. Streaming chat over SSE, JWT auth, and rate limiting. | Grounded, cited answers from a user's own documents. Docker and GitHub Actions pipeline replaced manual releases across Vercel and Render. |
+| **Client analytics dashboard** (Zenstreet.ai, closed source)<br>Next.js, React, TypeScript, Node.js | Production dashboard with real-time updates over Server-Sent Events. Consolidated 12 duplicated components into 7 reusable ones; fixed an N+1 query on the dashboard endpoint. | Load time 3.1s to 1.8s (Lighthouse). No manual refresh for 1,000 daily active users. |
 
 ---
 
+## Experience
 
-## 🌐 Connect & Collaborate
+**Zenstreet.ai** · Remote · May 2024 to Dec 2025 · three progressive roles, held alongside B.Tech coursework
 
-<p align="left">
-  📫 <strong>Email</strong>: <a href="mailto:abhijeet6419@gmail.com">abhijeet6419@gmail.com</a><br>
-  💼 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/abhijeet-kumar-singh-softwaredeveloper/">Abhijeet Kumar Singh</a><br>
-  
-</p>
+**Software Engineer, Acting Product Lead** · Jul to Dec 2025
+- Took over feature prioritization after the PM left: ran weekly roadmap syncs with the founder and coordinated scope across 6 features with 4 engineers, while remaining the primary contributor on the Next.js/Node.js codebase.
+- Shipped a redesigned onboarding flow; weekly active users on it grew from 800 to 1,000 in the following month.
+- Fixed an N+1 query bottleneck on the dashboard endpoint, contributing to release cadence rising from 2 to 4 per month.
+
+**Software Engineer Intern** · Jan to Jun 2025
+- Built the client-facing analytics dashboard (Next.js, TypeScript), reducing page load from 3.1s to 1.8s.
+- Implemented SSE-based real-time sync for 1,000 daily active users, removing manual refresh workflows.
+
+**Software Developer Intern** · May to Dec 2024
+- Built 9 reusable React components adopted by 4 feature teams, cutting new-screen development time by about 25%.
+- Reduced initial page load from 4.0s to 2.3s with code splitting and lazy loading.
+- Shipped an internal dashboard with automated REST API data updates, replacing manual reporting for 500 internal users.
+
+B.Tech in Computer Science, Dr. A.P.J. Abdul Kalam Technical University (expected 2028). Professional since May 2024.
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20the%20closest%20thing%20we%20have%20to%20magic%20%E2%80%94%20I%20aim%20to%20wield%20it%20responsibly%20and%20creatively." />
-</div>
+## Tech Stack
 
+| Area | Tools |
+|---|---|
+| **Languages** | TypeScript, JavaScript (ES6+), Java |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | Node.js, NestJS, Express, REST APIs, JWT/OAuth (Passport.js), RBAC |
+| **Databases and Cloud** | PostgreSQL, MongoDB, Prisma, Docker, Vercel, Render |
+| **AI** | RAG, LangGraph, Gemini API, ChromaDB |
+| **Tools** | Git, GitHub Actions (CI/CD) |
+
+---
+
+## Currently
+
+- **Building:** Neurobase, a RAG knowledge base with LangGraph, ChromaDB, and streaming chat.
+- **Studying:** System design: caching, queues, and consistency trade-offs for the APIs I ship.
+
+---
+
+[Portfolio](https://career-portfolio-bice.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abhijeet-kumar-singh-softwaredeveloper/) · [Resume](Abhijeet_Resume.pdf) · [GitHub](https://github.com/Abhijeet641) · [abhijeet6419@gmail.com](mailto:abhijeet6419@gmail.com)
