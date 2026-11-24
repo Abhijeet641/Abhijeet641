@@ -4,7 +4,7 @@
 
 Open to full-stack engineering roles.
 
-[Portfolio](https://career-portfolio-bice.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abhijeet-kumar-singh-softwaredeveloper/) · [Resume](Abhijeet_Resume.pdf) · [Email](mailto:abhijeet6419@gmail.com)
+[Portfolio](https://career-portfolio-bice.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abhijeet-kumar-singh-softwaredeveloper/) · [Resume](https://drive.google.com/file/d/1lPnWzTpRhczITPX_dKgfYZAHVKcrNVgL/view?usp=drive_link) · [Email](mailto:abhijeet6419@gmail.com)
 
 ---
 
